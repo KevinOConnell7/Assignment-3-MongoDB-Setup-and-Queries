@@ -8,7 +8,7 @@ CS:3980
 
 ## Show MongoDB is Downloaded 
 
-This shows that I Downloaded MongoDB Correctly.
+This shows that I downloaded MongoDB correctly.
 
 <img width="1422" alt="Screen Shot 2024-03-26 at 12 43 38 PM" src="https://github.com/KevinOConnell7/Assignment-3-MongoDB-Setup-and-Queries/assets/45603150/fd252a91-3696-4950-9deb-7b35170dcc4c">
 
